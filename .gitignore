@@ -3,3 +3,4 @@ __pycache__
 api_keys.py
 notebooks/.ipynb_checkpoints
 notebooks/mykey.py
+notebooks/iextoken.py
